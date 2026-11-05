@@ -6,6 +6,10 @@ EarlyPay is an academic data science project that explores how machine learning 
 
 The project combines predictive modelling, customer segmentation and interactive visual analytics in a Streamlit dashboard.
 
+**Live Dashboard:** https://earlypay.streamlit.app
+
+**GitHub Repository:** https://github.com/benisonbabu3-max/Earlypay-banking-risk-intelligence
+
 ## Problem Statement
 
 Banks may identify repayment difficulties only after customers have missed payments. EarlyPay explores whether historical repayment behaviour, credit utilisation and billing patterns can help identify potential repayment risk earlier.
@@ -115,5 +119,22 @@ EarlyPay/
 ## Research Context
 
 EarlyPay demonstrates how predictive analytics and machine learning can support early identification of repayment stress and help explore data-driven approaches to customer risk monitoring.
+
+## Dashboard Screenshots
+
+### 1. Overview
+![EarlyPay Overview](screenshots/01_overview.png)
+
+### 2. Customer Analytics
+![Customer Analytics](screenshots/02_customer_analytics.png)
+
+### 3. Risk Prediction
+![Risk Prediction](screenshots/03_risk_prediction.png)
+
+### 4. Customer Segmentation
+![Customer Segmentation](screenshots/04_segmentation.png)
+
+### 5. Model Performance
+![Model Performance](screenshots/05_model_performance.png)
 
 **Developed as an MBA Banking Technology and Data Science portfolio project.**
