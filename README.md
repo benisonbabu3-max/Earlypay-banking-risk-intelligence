@@ -137,4 +137,4 @@ EarlyPay demonstrates how predictive analytics and machine learning can support 
 ### 5. Model Performance
 ![Model Performance](screenshots/05_model_performance.png)
 
-**Developed as a MBA Banking Technology and Data Science portfolio project.**
+**Developed as an MBA Banking Technology and Data Science portfolio project.**
